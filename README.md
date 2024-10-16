@@ -53,38 +53,55 @@ The project is organized into several sections to guide you through the data ana
 bash
 
 ├── /data/                   # Datasets used for analysis
+
 │   ├── dataset1.csv
+
 │   └── dataset2.json
-│
+
 ├── /notebooks/              # Jupyter Notebooks for each step
+
 │   ├── 01_data_collection.ipynb
+
 │   ├── 02_data_cleaning.ipynb
+
 │   ├── 03_exploratory_analysis.ipynb
+
 │   ├── 04_data_visualization.ipynb
+
 │   ├── 05_machine_learning.ipynb
+
 │   └── 06_report_generation.ipynb
-│
+
 ├── /scripts/                # Python scripts for automating tasks
+
 │   └── preprocess_data.py
-│
+
 ├── README.md                # Project overview
+
 └── requirements.txt         # List of dependencies
 
 # Datasets
 The datasets used in this project can be found in the /data/ directory. You can add your own datasets or use the provided ones. The current datasets are:
 
 dataset1.csv: A dataset containing sales and customer data for a retail company.
+
 dataset2.json: A dataset related to user activity logs on a web platform.
+
 Feel free to explore and replace these with your own datasets.
 
 # Key Concepts
 This project covers the following key concepts:
 
 Data Collection: Acquiring data from different sources, including APIs, CSV files, databases, and web scraping.
+
 Data Cleaning: Handling missing data, duplicate records, and data transformations to prepare it for analysis.
+
 Exploratory Data Analysis (EDA): Using statistics and visualization to explore data, uncover patterns, and generate insights.
+
 Data Visualization: Creating effective charts and graphs using libraries like Matplotlib and Seaborn.
+
 Predictive Analytics: Implementing machine learning algorithms to predict outcomes based on historical data.
+
 Reporting: Summarizing findings and generating reports that communicate insights clearly.
 
 # Learning Resources
@@ -92,7 +109,11 @@ Reporting: Summarizing findings and generating reports that communicate insights
 Here are some additional resources to help you deepen your understanding of data analytics:
 
 Pandas Documentation
+
 Matplotlib Documentation
+
 Seaborn Tutorial
+
 Scikit-learn User Guide
+
 Data Science for Beginners (Kaggle)
