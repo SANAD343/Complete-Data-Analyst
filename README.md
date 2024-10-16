@@ -108,12 +108,12 @@ Reporting: Summarizing findings and generating reports that communicate insights
 
 Here are some additional resources to help you deepen your understanding of data analytics:
 
-Pandas Documentation
+Pandas Documentation (https://pandas.pydata.org/docs/)
 
-Matplotlib Documentation
+Matplotlib Documentation (https://matplotlib.org/stable/index.html)
 
-Seaborn Tutorial
+Seaborn Tutorial (https://seaborn.pydata.org/tutorial.html)
 
-Scikit-learn User Guide
+Scikit-learn User Guide (https://scikit-learn.org/1.5/user_guide.html)
 
-Data Science for Beginners (Kaggle)
+Data Science for Beginners (Kaggle) (https://www.kaggle.com/)
