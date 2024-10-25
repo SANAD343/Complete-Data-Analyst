@@ -1,5 +1,8 @@
 # Complete Data Analytics
 
+![image](https://github.com/user-attachments/assets/39616ac5-68ce-4eb6-8f88-1429b7664535)
+
+
 Welcome to the **Complete Data Analytics** project! This repository contains all the resources, datasets, and code required to understand and perform data analytics. Whether you are a beginner or an experienced professional, this guide will help you acquire the skills necessary for performing insightful data analysis.
 
 Data analysis involves inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, drawing conclusions, and supporting decision-making. 
